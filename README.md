@@ -6,7 +6,7 @@ ventas de una empresa.
 - Python
 - Pandas
 - Jupyter Notebook
-## Goals
+## Objetivos
 - Mejorar mis habilidades de programación
 - Construir proyectos pequeños
 - Aprender más cada día
